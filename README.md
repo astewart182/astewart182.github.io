@@ -8,7 +8,8 @@ I currently do research regarding reducing cancer risk for firefighters, and how
 
 
 ### My resume:
-- [Resume data analyst 3 copy.docx](https://github.com/astewart182/astewart182.github.io/files/14826049/Resume.data.analyst.3.copy.docx)
+- [Resume DA.docx](https://github.com/astewart182/astewart182.github.io/files/14842197/Resume.DA.docx)
+
 
 
 ### Projects:
