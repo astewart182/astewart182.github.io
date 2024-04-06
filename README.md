@@ -15,7 +15,8 @@ I currently do research regarding reducing cancer risk for firefighters, and how
 ### Projects:
 
 A Power BI report analyzing survey data distributed to attendee's of our firefighter cancer symposium:
-- [symposiumreport.pdf](https://github.com/astewart182/astewart182.github.io/files/14826054/symposiumreport.pdf)
+- [symposiumreport2.pdf](https://github.com/astewart182/astewart182.github.io/files/14894645/symposiumreport2.pdf)
+
 
 
 A analysis of on-duty firefighter deaths to better understand occupational risks and to issues future health/safety reccomendations, done in R:
