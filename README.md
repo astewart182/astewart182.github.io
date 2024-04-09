@@ -10,6 +10,8 @@ I currently do research regarding reducing cancer risk for firefighters, and how
 ### My resume:
 - [Resume DA.docx](https://github.com/astewart182/astewart182.github.io/files/14842197/Resume.DA.docx)
 
+### My leetcode where I solve SQL/database questions
+- https://leetcode.com/lordvoldemort182/
 
 
 ### Projects:
