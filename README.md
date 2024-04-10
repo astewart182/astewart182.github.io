@@ -22,5 +22,6 @@ A Power BI report analyzing survey data distributed to attendee's of our firefig
 
 
 An analysis of on-duty firefighter deaths, done to better understand occupational risks and to issue future health/safety reccomendation, done in R:
-- [firefighter-deaths (1).pdf](https://github.com/astewart182/astewart182.github.io/files/14826058/firefighter-deaths.1.pdf)
+- [firefighter-deaths (6).pdf](https://github.com/astewart182/astewart182.github.io/files/14934849/firefighter-deaths.6.pdf)
+
 
