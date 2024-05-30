@@ -2,15 +2,17 @@
 
 Thanks for checking out my site. This is where I host my resume and some of my projects to showcase my skills and knowledge around data analysis and programming.
 
-### About me:
-I am currently an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. <br>
-I love taking raw data and working to shape it into something that I can use to better the lives of others. <br>
-I do research regarding reducing cancer risk for firefighters, and work to leverage this research to improve their health and safety practices. <br>
+<br>
 
+### About me:
+I am currently an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. I love taking raw data and working to shape it into something that I can use to better the lives of others. My research involves studying way to reduce cancer risk for firefighters, and working to leverage this research to improve their health and safety practices. 
+
+<br>
 
 ### My resume:
 - [Resume UM 2.docx](https://github.com/astewart182/astewart182.github.io/files/15503912/Resume.UM.2.docx)
 
+<br>
 
 ### My Projects:
 
@@ -26,6 +28,7 @@ An analysis of obesity trends in the USA, China, and Russia. Done to better unde
 An analysis of on-duty police deaths. Done to better understand occupational risks and to improve understanding of the profession by the general population, done in Python:
 - [analyzing-us-police-deaths-police-killings.pdf](https://github.com/astewart182/astewart182.github.io/files/15503841/analyzing-us-police-deaths-police-killings.pdf)
 
+<br>
 
 ### My leetcode profile where I solve Python/SQL/database problems:
 - [leetcode.com/lordvoldemort182](https://leetcode.com/lordvoldemort182/)
