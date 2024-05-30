@@ -4,7 +4,7 @@ Thanks for checking out my site. This is where I host my resume and some of my d
 
 
 ### About me:
-I am currently an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. I love taking raw data and working to shape it into something that I can use to better the lives of others. My past research involved studying way to reduce cancer risk for firefighters, and working to leverage this research to improve their health and safety practices. I am currently a Cancer Registry Data Manager for a large team in the Division of Hematology.
+I am an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. I love taking raw data and working to shape it into something that I can use to better the lives of others. My past research involved studying way to reduce cancer risk for firefighters, and working to leverage this research to improve their health and safety practices. I am currently a Cancer Registry Data Manager for a large team in the Division of Hematology.
 
 <br>
 
