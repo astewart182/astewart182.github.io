@@ -3,8 +3,8 @@
 Thanks for checking out my site. This is where I host my resume and some of my projects to showcase my skills and knowledge around data analysis and programming.
 
 ### About me:
-I am currently an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. 
-I love taking raw data and working to shape it into something that I can use to better the lives of others.
+I am currently an occupational health researcher / Data Manager at the University of Miami, Miller School of Medicine, and I specialize in data analysis and data management. \n
+I love taking raw data and working to shape it into something that I can use to better the lives of others. \n
 I do research regarding reducing cancer risk for firefighters, and work to leverage this research to improve their health and safety practices. 
 
 
